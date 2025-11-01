@@ -1,8 +1,8 @@
+langchain
+langchain-community
+langchain-openai   # or langchain-anthropic
+openai
 pandas
-numpy
-tabula-py
 pdfplumber
-PyMuPDF
-openpyxl
-ocrmypdf
-tqdm
+tiktoken
+python-dotenv
